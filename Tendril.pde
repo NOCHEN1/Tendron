@@ -28,5 +28,6 @@ class Tendril
       Cluster newC = new Cluster(myNumSegments/4,startX,startY);
     }
   }
+ }
 }
 
